@@ -1,0 +1,12 @@
+.idea/
+.idea_modules/
+*.iws
+.cache/
+.vscode/
+.DS_Store
+
+__pycache__/
+*.pyc
+*.pyo
+
+scripts/
